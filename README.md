@@ -1,7 +1,7 @@
 # Breast-Cancer-Prediction-Model-using-Deep-learning
-A breast cancer prediction model which uses deep learning to predict whether a patient has a Malignant or Benign. 
-
-The accuracy of the model on the test dataset is 97.90%.
+1) Developed a deep learning model using sequential artificial neural networks (ANN) from the Keras library
+2) Achieved an accuracy of 97.90% in classifying breast cancer patients as malignant or benign
+2) Scaled and cleaned the breast cancer dataset to improve the quality of the data and facilitate better processing of the data
 
 
 
